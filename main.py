@@ -5,3 +5,4 @@ def cal(a,b):
     f=a*b
     print(c,d,e,f)
 cal(10,5)
+print("hi")
